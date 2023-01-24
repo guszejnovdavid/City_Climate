@@ -1,0 +1,31 @@
+﻿Example Key,Name,Köppen designation,Color,Rarity
+Egypt/Aswan,Hot desert ,BWh,#FF0000,No
+Poland/Warsaw,"Warm summer, humid continental",Dfb,#37C8FF,No
+Russia/Arkhangel'sk,Subarctic,Dfc,#007D7D,No
+Thailand/Bangkok,Tropical savanna,Aw/As,#46AAFA,No
+Liberia/Monrovia,Tropical monsoon,Am,#0078FF,No
+Malaysia/Kuala Lumpur,Tropical rainforest,Af,#0000FF,No
+Argentina/Neuquen,Cold desert,BWk,#FF9696,No
+Niger/Niamey,Hot semi-arid,BSh,#F5A500,No
+United States of America/Nevada/Reno,Cold semi-arid,BSk,#FFDC64,No
+Spain/Valencia,Hot-summer Mediterranean,Csa,#FFFF00,No
+India/Lucknow,Humid subtropical (monsoon),Cwa,#96FF96,No
+Greenland/Sisimiut,Tundra,ET,#B2B2B2,No
+Antarctica/Vostok 2,Ice cap,EF,#666666,No
+United States of America/Texas/Houston,Humid subtropical,Cfa,#C8FF50,No
+Portugal/Porto,Warm-summer Mediterranean,Csb,#C6C600,No
+Chile/Balmaceda,Cold-summer Mediterranean,Csc,#999900,Yes
+Mexico/Distrito Federal/Mexico City,Subtropical highland,Cwb,#64C864,No
+Bolivia/La Paz,Cold subtropical highland,Cwc,#329632,Yes
+United Kingdom/England/London,Temperate oceanic,Cfb,#64FF50,No
+Chile/Punta Arenas,Subpolar oceanic,Cfc,#32C800,Yes
+United States of America/Utah/Salt Lake City,"Hot summer, dry continental",Dsa,#C800C8,No
+United States of America/Washington/Spokane,"Warm summer, dry continental",Dsb,#FF00FF,No
+United States of America/Oregon/Beaver Marsh,Dry subarctic,Dsc,#963296,Yes
+Russia/Seymchan,Dry extreme subarctic,Dsd,#966496,Yes
+South Korea/Seoul,"Hot summer, humid continental (monsoon)",Dwa,#AAAFFF,No
+Russia/Vladivostok,"Warm summer, humid continental (monsoon)",Dwb,#5978DC,No
+Russia/Irkutsk,Subarctic (monsoon),Dwc,#4B50B3,No
+Russia/Verkhoyansk,Extreme subarctic (monsoon),Dwd,#320087,Yes
+United States of America/Illinois/Chicago,"Hot summer, humid continental",Dfa,#00FFFF,No
+Russia/Yakutsk,Extreme subarctic,Dfd,#00465F,Yes
