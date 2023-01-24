@@ -5,4 +5,4 @@ If you have ever wondered which cities would have a similar climate to your home
 
 In this project we try to answer these questions using climate data from [Weatherbase.com](https://www.weatherbase.com/).
 
-For more details check out the [web app](http://www.david-guszejnov.com/climate_app) and [blog post]().
+For more details check out the [web app](http://www.david-guszejnov.com/climate_app) and [blog post](https://medium.com/@guszejnov.david/data-science-based-climate-zones-24fd5085d24).
